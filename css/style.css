@@ -183,10 +183,12 @@ footer{
 }
 .f_p{
 	margin: 0;
+	font-size: 12px;
 	color: #76dbff;
 }
 .f_p a{
 	color: white;
+    font-size: 12px;
     font-weight: 700;
     text-decoration: none;
     letter-spacing: 2px;
